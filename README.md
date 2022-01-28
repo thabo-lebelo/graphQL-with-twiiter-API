@@ -1,1 +1,1 @@
-# graphQL-with-twiiter-API
+# graphQL-with-twitter-API
